@@ -11,7 +11,7 @@ Interessant für mich sind dabei mehrere Aspekte: Die graphische Oberfläche (GU
 Das Programm soll zum einen Daten aus der Datenbank auslesen und genau so auch Daten in die Datenbank einpflegen können. Hier entstehen für mich immer wieder neue Fragestellungen durch die ich mein Wissen erweitern kann.
 + Daneben finde ich die Thematik Webentwicklung sehr spannend. Hier habe ich eine [kleine To-Do-Liste](https://christopherknoebl.github.io/To-Do-Liste/) erstellt. An dieser Übe ich weiter das Zusammenspiel von HTML, CSS und JavaScript. Darüber hinaus erweitere ich dieses Grundkonzept zu einem Kartei-Karten-Programm. Hier stelle ich mir vor, dass eine NoSQL-Datenbank ihren Einsatz finden kann.
 
-+ Daneben schreibe ich an einer kleinen Sammlung von mehreren Kalkulationsprogrammen für die Rechenaufgaben der Umschulung. Dies mache ich um die Implementation von Algorithmen einzuüben. Bis jetzt habe ich hier Python verwendet, ich bin aber zur Zeit sehr daran interessiert hier einmal eine andere Sprache wie etwa C++ zum Einsatz zu bringen.
++ Daneben schreibe ich an einer kleinen Sammlung von mehreren Kalkulationsprogrammen für die Rechenaufgaben der Umschulung. Dies mache ich um die Implementation von Algorithmen einzuüben. Bis jetzt habe ich hier Python verwendet, ich bin aber zur Zeit sehr daran interessiert hier einmal eine andere Sprache wie etwa C++ oder Java zum Einsatz zu bringen.
 <!--
 **ChristopherKnoebl/ChristopherKnoebl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
